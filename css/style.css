@@ -56,4 +56,11 @@ a, a:hover {
     text-decoration: none;
 }
 
+#carouselButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
 /* border bottom: 1px ridge; */
